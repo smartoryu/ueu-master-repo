@@ -1,0 +1,5 @@
+print("=================")
+print("PROGRAM QUIZ")
+print("====================")
+print("masukkan nama : Prikenang PS")
+print("masukkan nim : 20210802102")
