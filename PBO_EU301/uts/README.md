@@ -12,7 +12,7 @@
 
 ---
 
-3. Ketika di dalam sebuah perulangan didapati `continue` dalam sebuah pernyataan bersyarat, maka kondisi tersebut akan dilewati dan melanjutkan perulangan selanjutnya. Namun, apabila ditemui `break`
+3. Ketika di dalam sebuah perulangan terdapat `continue`, maka perulangan tersebut akan dilewati dan dilanjutkan ke perulangan selanjutnya. Sebaliknya, apabila ditemui `break` maka program akan keluar dari perulangan tersebut tanpa diselesaikan.
 
 [source code](jawaban3.py)
 
